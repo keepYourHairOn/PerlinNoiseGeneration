@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{FA3DA068-DFAE-4B0D-2643-AB8FD1CFCD6F}") = "PerlinNoiseGeneration", "Assembly-CSharp.csproj", "{F5649D8A-C16C-A5B7-F668-FE599D5747C3}"
+EndProject
+Project("{FA3DA068-DFAE-4B0D-2643-AB8FD1CFCD6F}") = "PerlinNoiseGeneration", "Assembly-CSharp-Editor.csproj", "{C6CD74DB-1B42-E747-7C02-1C51B2890006}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5649D8A-C16C-A5B7-F668-FE599D5747C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5649D8A-C16C-A5B7-F668-FE599D5747C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5649D8A-C16C-A5B7-F668-FE599D5747C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5649D8A-C16C-A5B7-F668-FE599D5747C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6CD74DB-1B42-E747-7C02-1C51B2890006}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6CD74DB-1B42-E747-7C02-1C51B2890006}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6CD74DB-1B42-E747-7C02-1C51B2890006}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6CD74DB-1B42-E747-7C02-1C51B2890006}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
